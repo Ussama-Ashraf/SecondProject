@@ -54,9 +54,9 @@ html {
 }
 
 .landing {
+  background-image: url(../images/001.jpg);
   background-color: var(--dark-color);
   height: calc(100vh - 54px);
-  background-image: url(/images/001.jpg);
   background-size: cover;
 }
 .landing .overlay {
